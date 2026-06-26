@@ -1,14 +1,14 @@
 # Question 4: Bank Account Balance
 # Scenario:
 # A customer withdraws money from their bank account.
-#
+
 # Problem Statement:
 # Write a Python program to calculate the remaining balance after withdrawal.
-#
+
 # Input:
 # Current Balance
 # Withdrawal Amount
-#
+
 # Output:
 # Remaining Balance
 

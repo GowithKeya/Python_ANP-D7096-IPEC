@@ -2,15 +2,15 @@
 # Scenario:
 # A company pays an employee a fixed monthly salary and additional incentives
 # based on performance.
-#
+
 # Problem Statement:
 # Write a Python program to calculate the total monthly salary of an employee
 # by adding the fixed salary and incentive amount.
-#
+
 # Input:
 # Basic Salary
 # Incentive
-#
+
 # Output:
 # Total Salary
 

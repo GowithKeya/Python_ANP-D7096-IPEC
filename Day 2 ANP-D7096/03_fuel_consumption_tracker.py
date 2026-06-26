@@ -1,14 +1,14 @@
 # Question 3: Fuel Consumption Tracker
 # Scenario:
 # A person wants to calculate the average fuel consumption of a car.
-#
+
 # Problem Statement:
 # Write a Python program to find the average mileage of a car.
-#
+
 # Input:
 # Total distance traveled (km)
 # Fuel consumed (liters)
-#
+
 # Output:
 # Mileage (km/l)
 
