@@ -1,6 +1,6 @@
 # Python Training
 
-This repository contains beginner-friendly Python practice programs based on real-life problem statements. The examples are designed to help learners understand arithmetic operators, user input, variables, basic output formatting, and conditional statements.
+This repository contains beginner-friendly Python training material and practice programs based on real-life problem statements. The examples and notes are designed to help learners understand Python basics, variables, data types, arithmetic operators, user input, basic output formatting, and conditional statements.
 
 ## Topics Covered
 
@@ -14,6 +14,9 @@ This repository contains beginner-friendly Python practice programs based on rea
 - Taking input with `input()`
 - Converting values using `int()` and `float()`
 - Printing results with `print()`
+- Features of Python
+- Keywords, literals, and identifiers
+- Variables and data types
 - Conditional checking using `if`
 - Decision making using `if ... else`
 - Nested `if ... else` statements
@@ -23,31 +26,30 @@ This repository contains beginner-friendly Python practice programs based on rea
 ```text
 classwork/
   day-1 basics and operators_24th_June/
+    features of Python.png
+    keywords, Literals, Identifiers.png
+    operators in python.png
+    problems based on arithmetic operators.pdf
+    variables and datatypes.png
   day-2 selection statement_25th_june/
   day-3 selection statement_26th_june/
 labwork/
 self-learning/
 ```
 
-## Practice Programs
+## Classwork Material
 
-### Classwork: Day 1 Basics and Operators
+### Day 1: Basics and Operators
 
-| No. | File | Problem |
+| No. | File | Topic |
 | --- | --- | --- |
-| 1 | `classwork/day-1 basics and operators_24th_June/01_monthly_salary_calculation.py` | Calculate total salary using basic salary and incentive |
-| 2 | `classwork/day-1 basics and operators_24th_June/02_grocery_store_bill.py` | Calculate total bill for rice packets |
-| 3 | `classwork/day-1 basics and operators_24th_June/03_fuel_consumption_tracker.py` | Calculate car mileage |
-| 4 | `classwork/day-1 basics and operators_24th_June/04_bank_account_balance.py` | Calculate remaining bank balance after withdrawal |
-| 5 | `classwork/day-1 basics and operators_24th_June/05_classroom_seating_arrangement.py` | Find complete classroom rows |
-| 6 | `classwork/day-1 basics and operators_24th_June/06_pizza_distribution.py` | Find remaining pizza slices after distribution |
-| 7 | `classwork/day-1 basics and operators_24th_June/07_compound_growth_of_savings.py` | Calculate savings growth when amount doubles every year |
-| 8 | `classwork/day-1 basics and operators_24th_June/08_online_shopping_discount.py` | Calculate final price after discount |
-| 9 | `classwork/day-1 basics and operators_24th_June/09_mobile_recharge_plan.py` | Calculate total mobile recharge cost |
-| 10 | `classwork/day-1 basics and operators_24th_June/10_event_management_budget.py` | Calculate amount per event participant |
-| 11 | `classwork/day-1 basics and operators_24th_June/11_food_delivery_business_profit_analysis.py` | Analyze revenue, profit, boxes, remaining packets, and future revenue |
+| 1 | `classwork/day-1 basics and operators_24th_June/features of Python.png` | Features of Python |
+| 2 | `classwork/day-1 basics and operators_24th_June/keywords, Literals, Identifiers.png` | Keywords, literals, and identifiers |
+| 3 | `classwork/day-1 basics and operators_24th_June/operators in python.png` | Operators in Python |
+| 4 | `classwork/day-1 basics and operators_24th_June/problems based on arithmetic operators.pdf` | Arithmetic operator problem statements |
+| 5 | `classwork/day-1 basics and operators_24th_June/variables and datatypes.png` | Variables and data types |
 
-### Classwork: Day 3 Selection Statement
+### Day 3: Selection Statement
 
 | No. | File | Problem |
 | --- | --- | --- |
@@ -73,13 +75,13 @@ python "folder_name/file_name.py"
 Example:
 
 ```bash
-python "classwork/day-1 basics and operators_24th_June/01_monthly_salary_calculation.py"
+python "classwork/day-3 selection statement_26th_june/02_movie_ticket_eligibility.py"
 ```
 
-Another example:
+To open Day 1 notes or problem statements, open the image or PDF files from:
 
-```bash
-python "classwork/day-3 selection statement_26th_june/02_movie_ticket_eligibility.py"
+```text
+classwork/day-1 basics and operators_24th_June/
 ```
 
 Then enter the requested input values and check the output.
@@ -94,5 +96,5 @@ Total Salary: 30000.0
 
 ## Goal
 
-The goal of this training project is to build confidence with simple Python programs before moving to conditions, loops, functions, lists, and larger projects.
-The Day 3 programs focus on writing decision-making logic using `if ... else` statements.
+The goal of this training project is to build confidence with Python basics before moving to conditions, loops, functions, lists, and larger projects.
+Day 1 focuses on Python fundamentals and operators. Day 3 focuses on writing decision-making logic using `if ... else` statements.
